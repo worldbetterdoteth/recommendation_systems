@@ -1,0 +1,31 @@
+{
+  "name": "recommendation_systems",
+  "version": "1.0.2",
+  "description": "",
+  "type": "module",
+  "main": "recommendation_systems.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldbetterdoteth/recommendation_systems"
+  },
+  "website": "https://github.com/worldbetterdoteth/recommendation_systems.git",
+  "keywords": [
+    "recommendation_systems"
+  ],
+  "author": "worldbetterdoteth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldbetterdoteth/recommendation_systems/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/worldbetterdoteth/recommendation_systems#readme",
+  "dependencies": {
+    "ecommerce_platforms": "1.0.2"
+  }
+}
